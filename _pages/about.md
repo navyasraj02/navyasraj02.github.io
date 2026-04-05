@@ -2,30 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: Masters' Student at University of Houston | Application Developer @ HPEDSI UH
+subtitle: <a href="https://www.uh.edu">University of Houston</a>. Computer Science Graduate Student & Application Developer.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Houston, Texas</p>
-    <p>Open to AI/ML & Data Science & Software roles</p>
+    <p><i class="fas fa-map-marker-alt"></i> Houston, Texas</p>
+    <p><i class="fas fa-briefcase"></i> Open to AI/ML & Software roles</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-# 👋 Hi, I'm Navya!
+# 👋 Hi
 
 I’m a Computer Science graduate student at the **University of Houston**, focused on **AI, Machine Learning, and Full-Stack Development**.
 
