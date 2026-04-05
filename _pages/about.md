@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href="https://www.uh.edu">University of Houston</a>. Computer Science Graduate Student & Application Developer.
 
