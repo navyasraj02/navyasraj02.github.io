@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://www.uh.edu">University of Houston</a>. Computer Science Graduate Student & Application Developer.
+subtitle: Computer Science Graduate Student at <a href="https://www.uh.edu">University of Houston</a> & Application Developer at <a href="https://hpedsi.uh.edu/">HPEDSI</a> .
 
 profile:
   align: right
@@ -25,19 +25,18 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-# 👋 Hi
+# 👋 Hi there
 
-I’m a Computer Science graduate student at the **University of Houston**, focused on **AI, Machine Learning, and Full-Stack Development**.
+I’m a Computer Science graduate student at University of Houston, focused on AI, Machine Learning, and Full-Stack Development. I build intelligent systems that combine LLMs, automation, and scalable backend engineering — from multi-agent workflows to data-driven ML pipelines.
 
-I build intelligent systems that combine **LLMs, automation, and scalable backend engineering** — from multi-agent workflows to data-driven ML pipelines.
+### Technical Skills
 
-### Currently:
-- 🤖 **Developing agentic AI systems** (LLMs + automation)
-- ⚙️ **Building production-ready full-stack applications**
-- 📊 **Working with large-scale data & ML models**
+* **Programming:** Python, Java, C/C++, JavaScript (React.js, Vue.js)
+* **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Large Language Models (BERT, GPT), AutoGen, LoRA, NLP
+* **Systems & Backend:** FastAPI, Node.js, Flask, Django, ASP.NET, REST APIs,
+* **Databases:** MySQL, MongoDB
+* **Tools & Ops:** Git, Docker, AWS, Reclaim Cloud, Linux, CI/CD, Playwright (Browser Automation)
+* **Data Visualization:** Tableau, Matplotlib, Seaborn
 
-### 🛠️ Tech Stack
-**Python** • **JavaScript** • **FastAPI** • **Node.js** • **React** • **MongoDB** **TensorFlow** • **PyTorch** • **NLP** • **LLMs** • **Docker** • **AWS**
-
-### 🤝 Let's Connect
-I am actively seeking opportunities in **AI / ML Engineering and Data Science**.
+### Let's Connect
+I am actively seeking opportunities in AI/ML Engineering, Data Science, and Software Development.
