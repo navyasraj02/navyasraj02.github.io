@@ -456,9 +456,9 @@ ninja.data = [{
           description: "Agentic browser automation for LMS workflows (Moodle and Canvas).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-traffic-crash-cause-identification",
+          title: 'Traffic Crash Cause Identification',
+          description: "Multi-class ML pipeline analyzing Chicago crash records.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-pseudostem-weevil-detector-pswd",
