@@ -2,7 +2,6 @@
 layout: page
 title: Pseudostem Weevil Detector (PSWD)
 description: Acoustic pest detection in banana crops using CNNs.
-img: /assets/img/image_psw.png
 importance: 3
 category: Data Science
 ---
@@ -23,3 +22,10 @@ An innovative acoustic monitoring system designed to help farmers detect Pseudos
 ---
 #### 👥 Team & Collaboration
 *Collaborative project with Annie Treasa Sabu, Anuranjana Rajeev, and Nayana P.*
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/image_psw.png" title="PSWD Project Image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
