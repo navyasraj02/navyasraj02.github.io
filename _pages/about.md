@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Science Graduate Student at <a href="https://www.uh.edu">University of Houston</a> & Application Developer at <a href="https://hpedsi.uh.edu/">HPEDSI</a> .
+subtitle: Computer Science Graduate Student at <a href="https://www.uh.edu">University of Houston</a> & Application Developer at <a href="https://hpedsi.uh.edu/">HPEDSI</a>.
 
 profile:
   align: right
@@ -25,7 +25,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-# 👋 Hi there
 
 I’m a Computer Science graduate student at University of Houston, focused on AI, Machine Learning, and Full-Stack Development. I build intelligent systems that combine LLMs, automation, and scalable backend engineering — from multi-agent workflows to data-driven ML pipelines.
 
