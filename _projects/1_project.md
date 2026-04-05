@@ -3,7 +3,7 @@ layout: page
 title: Agentic LMS Automation System
 description: Agentic browser automation for LMS workflows (Moodle and Canvas).
 importance: 1
-category: Software and Agentic AI
+category: Data Science
 ---
 
 An agentic browser automation system that autonomously manages LMS workflows (Moodle and Canvas). The system leverages LLMs to navigate complex web interfaces, identifying and completing student tasks without manual intervention.
