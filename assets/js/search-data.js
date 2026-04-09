@@ -420,6 +420,11 @@ ninja.data = [{
           description: "Fine-tuning and benchmarking LLMs (Llama 3.2, RoBERTa, DistilBERT) for text provenance.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-biovault-biometric-authentication",
+          title: 'BioVault - Biometric Authentication',
+          description: "A decentralized biometric system using template fragmentation and encrypted distribution.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
