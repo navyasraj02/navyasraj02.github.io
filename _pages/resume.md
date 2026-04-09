@@ -8,7 +8,6 @@ nav_order: 2
 
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title">Resume</h1>
     <p class="post-description">Download my latest resumes specialized by field.</p>
   </header>
 
