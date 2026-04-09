@@ -431,7 +431,7 @@ ninja.data = [{
               window.location.href = "/projects/4_project/";
             },},{id: "projects-ai-vs-human-text-detection",
           title: 'AI vs. Human Text Detection',
-          description: "Fine-tuning and benchmarking LLMs (Llama 3.2, RoBERTa, DistilBERT) for text provenance.",
+          description: "Comparative analysis of fine-tuned LLMs for AI text detection.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-biovault-biometric-authentication",
