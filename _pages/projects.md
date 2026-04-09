@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 nav: true
 nav_order: 3
-display_categories: [Data Science, Software, Fun]
+display_categories: [Data Science, Software]
 horizontal: false
 ---
 
