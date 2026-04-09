@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-certifications",
           title: "Certifications",
-          description: "Certifications in AI, Machine Learning, and Full-Stack Web Development.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/certifications/";
