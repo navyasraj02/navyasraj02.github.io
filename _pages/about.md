@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Science Graduate Student at <a href="https://www.uh.edu">University of Houston</a> & Application Developer at <a href="https://hpedsi.uh.edu/">HPEDSI</a>.
+subtitle: CS Graduate Student at <a href="https://www.uh.edu">University of Houston</a> & Application Developer at <a href="https://hpedsi.uh.edu/">HPEDSI</a>.
 
 profile:
   align: right
@@ -26,16 +26,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a Computer Science graduate student at University of Houston, focused on AI, Machine Learning, and Full-Stack Development. I build intelligent systems that combine LLMs, automation, and scalable backend engineering — from multi-agent workflows to data-driven ML pipelines.
+I’m a Computer Science graduate student at the University of Houston, specializing in AI, Machine Learning, and Full-Stack Development. Currently, working as an Application Developer at the HPE Data Science Institute (HPEDSI). At HPEDSI, I focus on enhancing our full-stack web application through automation and feature development. My recent work includes designing an automated report generation system that reduced a 45-minute manual process to under a minute and contributing to the development of a public project-sharing feature for over 1,100 students.
+
+### What I'm Building
+I am currently developing an Agentic LMS Automation System that leverages LLMs and browser automation to navigate non-deterministic web environments autonomously.
 
 ### Technical Skills
-
-* **Programming:** Python, Java, C/C++, JavaScript (React.js, Vue.js)
-* **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Large Language Models (BERT, GPT), AutoGen, LoRA, NLP
-* **Systems & Backend:** FastAPI, Node.js, Flask, Django, ASP.NET, REST APIs,
-* **Databases:** MySQL, MongoDB
-* **Tools & Ops:** Git, Docker, AWS, Reclaim Cloud, Linux, CI/CD, Playwright (Browser Automation)
-* **Data Visualization:** Tableau, Matplotlib, Seaborn
+* **Languages:** Python, JavaScript/TypeScript, C/C++, Java, R
+* **AI & Machine Learning:** GPT-4o, AutoGen, RoBERTa (LoRA/PEFT), PyTorch, Scikit-learn
+* **Backend & Web:** FastAPI, Node.js, Flask, React.js, Vue.js
+* **Databases & Tools:** MongoDB, MySQL, Docker, AWS, Git, Playwright
 
 ### Let's Connect
 I am actively seeking opportunities in AI/ML Engineering, Data Science, and Software Development.
