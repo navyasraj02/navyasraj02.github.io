@@ -2,7 +2,6 @@
 layout: page
 title: Certifications
 permalink: /certifications/
-description: Certifications in AI, Machine Learning, and Full-Stack Web Development.
 nav: true
 nav_order: 3
 ---
