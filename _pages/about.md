@@ -7,7 +7,7 @@ subtitle: Computer Science Graduate Student at <a href="https://www.uh.edu">Univ
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p><i class="fas fa-map-marker-alt"></i> Houston, Texas</p>
     <p><i class="fas fa-briefcase"></i> Open to AI/ML & Software roles</p>
