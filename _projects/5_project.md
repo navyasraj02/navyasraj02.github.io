@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI vs. Human Text Detection
-description: Fine-tuning and benchmarking LLMs (Llama 3.2, RoBERTa, DistilBERT) for text provenance.
+description: Comparative analysis of fine-tuned LLMs for AI text detection.
 importance: 5
 category: Data Science
 ---
