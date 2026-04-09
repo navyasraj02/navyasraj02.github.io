@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a Computer Science graduate student at the University of Houston, specializing in AI, Machine Learning, and Full-Stack Development. Currently, working as an Application Developer at the HPE Data Science Institute (HPEDSI). At HPEDSI, I focus on enhancing our full-stack web application through automation and feature development. My recent work includes designing an automated report generation system that reduced a 45-minute manual process to under a minute and contributing to the development of a public project-sharing feature for over 1,100 students.
+I’m a Computer Science graduate student at the University of Houston, specializing in AI, Machine Learning, and Full-Stack Development. Currently, working as an Application Developer at the HPE Data Science Institute (HPEDSI). At HPEDSI, I focus on enhancing our full-stack web application through automation and feature development. 
 
 ### What I'm Building
 I am currently developing an Agentic LMS Automation System that leverages LLMs and browser automation to navigate non-deterministic web environments autonomously.
